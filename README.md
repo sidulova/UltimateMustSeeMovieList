@@ -1,3 +1,7 @@
+Based on the IMDB [1], Timeout[2], Guardian[3], Empireonline[4] lists of the must see movies, I have combined a movie list that I think is ultimate must-see movies. 
+Leveraging web scraping techniques, the notebook extracts movie recommendations from various sources and compiles them into a comprehensive and consolidated list. 
+The project only using data parsing and data manipulation techinques for now, and I am currently working on having personalized recomendations for what movie I should watch next (coming Sping 2024...)
+
 | Title                                   | Year | Director                      | Genre                              |
 |-----------------------------------------|------|-------------------------------|------------------------------------|
 | Vertigo                                 | 1958 | Alfred Hitchcock              | Mystery, Romance, Thriller         |
