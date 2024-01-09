@@ -28,3 +28,8 @@ The project only using data parsing and data manipulation techinques for now, an
 | The Dark Knight                         | 2008 | Christopher Nolan              | Action, Crime, Drama               |
 | Gladiator                               | 2000 | Ridley Scott                   | Action, Adventure, Drama           |
 | Raiders of the Lost Ark                 | 1981 | Steven Spielberg               | Action, Adventure                  |
+
+[1][IMDb Must-Watch Movies List](https://www.imdb.com/list/ls091520106/)
+[2][Timeout Best Movies of All Time](https://www.timeout.com/film/best-movies-of-all-time)
+[3][The Guardian 100 Best Films of the 21st Century](https://www.theguardian.com/film/2019/sep/13/100-best-films-movies-of-the-21st-century)
+[4][Empire Online Best Movies](https://www.empireonline.com/movies/features/best-movies-2/)
